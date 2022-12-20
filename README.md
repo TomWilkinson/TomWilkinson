@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomWilkinson
 - 👀 I’m interested in Ham Radio, Photography and Software Development
-- 🌱 I’m currently learning .NET MAUI
+- 🌱 I’m currently Ham Radio related software
 - 📫 How to reach me thomasfwilkinson@gmail.com
 
 <!---
